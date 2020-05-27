@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <title>דו"ח</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-8-i">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body dir=rtl>
+
+<div class="container-fluid">
+  <div class="jumbotron"><h1>דו"ח לקוח</h1><p> מתאריך 01/01/15 עד לתאריך 24/09/16</p></div><h3>קיים במאגר מ  <span class='label label-default'>21/09/16</span></h3><hr><u><h2>פירוט</h2></u><div class='row' style='width:80%'><div ><table class='table table-bordered'><caption style='text-align:right'>פתחו כרטיס לקוח</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody><tr><td + >שמואל יעבץ</td><td + >21/09/16 02:17:24</td><tr><tr><td + >שושנה פרידמן</td><td + >21/09/16 16:02:43</td><tr><tr><td + >ביקסר שמואל</td><td + >21/09/16 19:34:37</td><tr><tr><td + >מיכל פסטנוביץ</td><td + >21/09/16 22:53:40</td><tr><tr><td + >שלומי אלמליך</td><td + >22/09/16 00:35:47</td><tr><tr><td + >נחמה שנקולבסקי</td><td + >22/09/16 11:53:08</td><tr><tr><td + >בלומר</td><td + >22/09/16 17:54:29</td><tr><tr><td + >מיכל פסטנוביץ</td><td + >24/09/16 23:37:13</td><tr><tr><td + >eliyaho</td><td + >24/09/16 23:48:06</td><tr></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>בדקו מה הטלפון</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody><tr><td + >ביקסר שמואל</td><td + >21/09/16 19:35:04</td><tr></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו הציעו ולא יצא</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody><tr><td + >ביקסר שמואל</td><td + >21/09/16 19:35:08</td><tr></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו ולא ענו</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו הציעו</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו לפגישה</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div></div><hr><hr><u><h2>סך הכל</h2></u><table class='table table-bordered'><thead><tr>
+        <th style='text-align:right'>שדכן</th>
+        <th style='text-align:right'>פתח כרטיס לקוח</th>
+        <th style='text-align:right'>בדק מה הטלפון</th>
+        <th style='text-align:right'>התקשר ולא ענו</th>
+        <th style='text-align:right'>התקשרו והציעו</th>
+        <th style='text-align:right'>התקשרו הציעו ולא יצא</th>        <th style='text-align:right'>התקשרו לפגישה</th>
+      </tr>
+    </thead>
+    <tbody><tr><td>שמואל יעבץ</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>שושנה פרידמן</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>ביקסר שמואל</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><tr><td>מיכל פסטנוביץ</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>שלומי אלמליך</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>נחמה שנקולבסקי</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>בלומר</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>eliyaho</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tbody></table><hr><u><h2>סך הכל</h2></u><h4>פתחו את הכרטיס<b><i> 9</i></b></h4><h4>בדקו מה הטלפון<b><i> 1</i></b></h4></h4><h4>התקשרו ולא ענו  <b><i>0</i></b></h4></h4><h4>התקשרו והציעו הצעה  <b><i>0</i></b></h4></h4><h4>התקשרו הציעו ולא יצא <b><i>1</i></b></h4></h4><h4>התקשרו לפגישה <b><i>0</i></b></h4></h4></div>
+</body>
+</html>

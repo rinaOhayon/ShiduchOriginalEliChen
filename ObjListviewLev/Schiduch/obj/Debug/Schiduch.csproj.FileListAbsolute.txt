@@ -1,0 +1,221 @@
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\bin\Debug\Schiduch.exe
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\bin\Debug\Schiduch.pdb
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\rebeka\Documents\Visual Studio 2012\Projects\C#\Schiduch\Schiduch\obj\Debug\Schiduch.pdb
+F:\New Folder\Schiduch\Schiduch\bin\Debug\Schiduch.exe.config
+F:\New Folder\Schiduch\Schiduch\bin\Debug\Schiduch.exe
+F:\New Folder\Schiduch\Schiduch\bin\Debug\Schiduch.pdb
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.Form1.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.Login.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.MainForm.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.Messages.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.exe
+F:\New Folder\Schiduch\Schiduch\obj\Debug\Schiduch.pdb
+C:\Schiduch\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Schiduch\Schiduch\bin\Debug\Schiduch.exe
+C:\Schiduch\Schiduch\bin\Debug\Schiduch.pdb
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.AddUser.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.Messages.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.exe
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.pdb
+C:\Schiduch\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.exe
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.pdb
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.AddUser.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Construction.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.Alert.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.RemoteControl.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.Welcome.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Message.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Report.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.pdb
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\אלי\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\bin\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.AddUser.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Construction.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.Alert.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.Contract.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.RemoteControl.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.Welcome.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Message.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Report.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.UpdateWindow.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.LoadProgress.resources
+C:\Users\eli\Desktop\Projects\Schiduch\Schiduch\obj\Debug\Schiduch.Forms.MyMessages.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\ObjectListView.dll
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\ObjectListView.pdb
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\bin\Debug\ObjectListView.xml
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.AddUser.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Construction.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Alert.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Contract.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.LoadProgress.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.MyMessages.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.RemoteControl.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Welcome.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Message.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Report.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.UpdateWindow.resources
+C:\Users\eli\Desktop\Projects\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Users\eli\OneDrive\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\eli\OneDrive\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\eli\OneDrive\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe.config
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.pdb
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.AddUser.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Construction.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Form1.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Alert.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Contract.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Help.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.LoadProgress.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.MyMessages.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.RemoteControl.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Welcome.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Login.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.MainForm.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Message.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Report.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.UpdateWindow.resources
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.exe
+C:\Users\eli\Desktop\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.pdb
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.exe
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.pdb
+F:\D\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.exe
+F:\D\Schiduch ObjListview\Schiduch\bin\Debug\Schiduch.pdb
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.AddUser.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Construction.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Form1.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Contract.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.Help.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.LoadProgress.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Login.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.MainForm.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Message.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.Report.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.UpdateWindow.resources
+F:\D\Schiduch ObjListview\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.exe
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.pdb
+F:\D\ObjListviewLev\Schiduch\bin\Debug\Schiduch.exe
+F:\D\ObjListviewLev\Schiduch\bin\Debug\Schiduch.pdb
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.csprojResolveAssemblyReference.cache
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.AddUser.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Construction.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.DetailForm.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Form1.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.Contract.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.FrmPhone.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.Help.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.LoadProgress.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.MatchSettings.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.PaymentForm.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.ReportForm.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.SerialHelp.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Forms.SplachScreen.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Login.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.MainForm.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Message.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Properties.Resources.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.Report.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.SerialForm.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.TempUpdate.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.UpdateWindow.resources
+F:\D\ObjListviewLev\Schiduch\obj\Debug\Schiduch.csproj.GenerateResource.Cache

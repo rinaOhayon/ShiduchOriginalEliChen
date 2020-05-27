@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <title>דו"ח</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-8-i">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body dir=rtl>
+
+<div class="container-fluid">
+  <div class="jumbotron"><h1>דו"ח לקוח</h1><p> מתאריך 01/01/2015 עד לתאריך 24/09/2019</p></div><h3>קיים במאגר מ  <span class='label label-default'>24/09/2019</span></h3><hr><u><h2>פירוט</h2></u><div class='row' style='width:80%'><div ><table class='table table-bordered'><caption style='text-align:right'>פתחו כרטיס לקוח</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody><tr><td + >לב אחד</td><td + >24/09/2019 11:25:02</td><tr><tr><td + >אליהו</td><td + >24/09/2019 10:40:23</td><tr><tr><td + >אליהו</td><td + >24/09/2019 10:41:09</td><tr><tr><td + >אליהו</td><td + >24/09/2019 10:41:17</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:42:24</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:42:35</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:43:28</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:43:44</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:43:54</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 10:44:05</td><tr><tr><td + >לב אחד</td><td + >24/09/2019 11:29:14</td><tr></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>בדקו מה הטלפון</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו הציעו ולא יצא</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו ולא ענו</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו הציעו</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div><div ><table class='table table-bordered'><caption style='text-align:right'>התקשרו לפגישה</caption><thead><tr><th style='text-align:right;width:50%'>שדכן</th><th style='text-align:right;width:50%'>בתאריך</th></tr></thead><tbody></tbody></table></div></div><hr><hr><u><h2>סך הכל</h2></u><table class='table table-bordered'><thead><tr>
+        <th style='text-align:right'>שדכן</th>
+        <th style='text-align:right'>פתח כרטיס לקוח</th>
+        <th style='text-align:right'>בדק מה הטלפון</th>
+        <th style='text-align:right'>התקשר ולא ענו</th>
+        <th style='text-align:right'>התקשרו והציעו</th>
+        <th style='text-align:right'>התקשרו הציעו ולא יצא</th>        <th style='text-align:right'>התקשרו לפגישה</th>
+      </tr>
+    </thead>
+    <tbody><tr><td>לב אחד</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><tr><td>אליהו</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tbody></table><hr><u><h2>סך הכל</h2></u><h4>פתחו את הכרטיס<b><i> 11</i></b></h4><h4>בדקו מה הטלפון<b><i> 0</i></b></h4></h4><h4>התקשרו ולא ענו  <b><i>0</i></b></h4></h4><h4>התקשרו והציעו הצעה  <b><i>0</i></b></h4></h4><h4>התקשרו הציעו ולא יצא <b><i>0</i></b></h4></h4><h4>התקשרו לפגישה <b><i>0</i></b></h4></h4></div>
+</body>
+</html>
